@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
+# VS Code settings
+.vscode/
